@@ -11,4 +11,3 @@ mkdir -p $plugdir ; cd $plugdir ; mkdir 'start' 'opt'
 
 git clone --branch=master --depth=1 https://github.com/morhetz/gruvbox 'start/gruvbox'
 git clone --branch=master --depth=1 https://github.com/mattn/emmet-vim 'opt/emmet-vim'
-git clone --branch=main   --depth=1 https://github.com/yegappan/lsp 'opt/lsp'
