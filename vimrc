@@ -32,9 +32,7 @@ syntax on
 set matchtime=0 ic nu laststatus=2 hidden
 
 " Colorscheme
-set bg=dark
-let g:gruvbox_contrast_dark="hard"
-colo gruvbox
+colo delek 
 
 " Style/code
 highlight ExtraWhitespace ctermbg=red guibg=red
