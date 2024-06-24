@@ -32,7 +32,7 @@ syntax on
 set matchtime=0 ic nu laststatus=2 hidden
 
 " Colorscheme
-colo delek 
+colo delek
 
 " Style/code
 highlight ExtraWhitespace ctermbg=red guibg=red
@@ -81,7 +81,7 @@ map <leader>cr <C-r>
 map <leader><leader> :ls<cr>:b<space>
 
 " C indent
-set cino=t0,l1,(0
+set cino=t0,l1,(0,:0
 
 " Persistent Undo
 let target_path = expand('~/.vim/persistent-undo/')
