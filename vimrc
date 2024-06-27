@@ -11,7 +11,6 @@ set display=truncate
 set scrolloff=5
 set incsearch
 set nrformats-=octal
-"set nrformats+=blank
 set mouse=a
 set nolangremap
 
