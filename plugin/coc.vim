@@ -46,4 +46,4 @@ function CoC()
 	omap ac <Plug>(coc-classobj-a)
 endfunction
 
-autocmd BufEnter *.c,*.cpp,,*.h,*.hpp*.py,*.js,*json,*.html,*.css,*.ts,*.rs :call CoC()
+autocmd BufEnter *.c,*.cpp,,*.h,*.hpp*.py,*.js,*json,*.html,*.css,*.ts :call CoC()
